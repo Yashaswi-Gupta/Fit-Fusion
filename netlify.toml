@@ -1,0 +1,4 @@
+[build]
+command = "npm install --legacy-pers-deps && npm run build"
+publish = "build"
+node_version = "8.11.0" # Replace with the desired Node.js version
